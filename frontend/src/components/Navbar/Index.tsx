@@ -18,7 +18,7 @@ function Navbar() {
                 </div>
             </nav>
         </header>
-    )
+    );
 
 }
 
